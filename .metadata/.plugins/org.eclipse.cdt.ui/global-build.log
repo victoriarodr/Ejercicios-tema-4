@@ -1,0 +1,4 @@
+10:38:14 **** Incremental Build of configuration Debug for project Armando menu ****
+Info: Internal Builder is used for build
+gcc -o "Armando menu.exe" "src\\Armando menu.o" "src\\bibliomenu.o" 
+Info: Nothing to build for Armando menu
